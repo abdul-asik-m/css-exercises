@@ -9,7 +9,7 @@ As with the previous exercise, we've left a little more for you to do.
 - You will need to add some divs as containers to get things to line up correctly.
 - `flex-wrap` will help get the cards aligned correctly.
 -  Make sure you define how much space the cards should take up, in order for `flex-wrap` to work as intended.
-
+  
 ## Desired outcome
 
 ![desired outcome](./desired-outcome.png)
@@ -29,7 +29,7 @@ Note: The emojis may instead show up as one or several text symbols (e.g. &#9734
 - The footer text is centered horizontally and vertically.
 - The sidebar and cards take up all available space above the footer.
 - The sidebar is 300px wide (and it doesn't shrink).
-- The sidebar links are size 24px, are white, and do not have the underline text decoration.
+- The sidebar links are size 24px  , are white, and do not have the underline text decoration.
 - The sidebar has 16px padding.
 - There is 48px padding around the 'cards' section.
 - The cards are arranged horizontally, but wrap to multiple lines when they run out of room on the page.
